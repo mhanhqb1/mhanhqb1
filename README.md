@@ -19,9 +19,9 @@ I'm a guy who likes code from Viet Nam
 </h2>
 
 ### 🛠 Technologies and Tools 🛠
-<span><img src="https://img.shields.io/badge/PHP-282C34?logo=css3&logoColor=007ACC" alt="PHP logo" title="PHP" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=007ACC" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=css3&logoColor=E34F26" alt="Laravel logo" title="Laravel" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=E34F26" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
